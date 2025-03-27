@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/QrutFjy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-How a sent ticket looks when opened by an agent. THe agent has the ability to escalate the ticket, assign a SLA plan to it, assign a team or agent to handle the ticket, or resolve the ticket by themselves. 
+How a ticket that has been submitted looks when opened by an agent. The agent has the ability to escalate the ticket, assign a SLA plan to it, assign a team or agent to handle the ticket, or resolve the ticket by themselves. 
 </p>
 <br />
 
@@ -36,6 +36,6 @@ How a sent ticket looks when opened by an agent. THe agent has the ability to es
 <img src="https://i.imgur.com/NxGNA4w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After viewing this ticket the agent noted that this was a high priority ticket and escaled the ticket to Sev-A. He observed it was aproblem that had to do with the online banking portal and assigned it to the online banking team.
+After viewing this ticket the agent noted that this was a high priority ticket and escaled the ticket to Sev-A. He observed it was a problem that had to do with the online banking portal and assigned it to the online banking team.
 </p>
 <br />
